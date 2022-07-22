@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wendibarmara
 - 👀 I’m interested in Web Development    
-- 🌱 I’m currently learning Node.JS
 
 
 <!---
